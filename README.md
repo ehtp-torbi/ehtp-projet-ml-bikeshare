@@ -25,10 +25,10 @@ Le projet suit une démarche rigoureuse d'ingénierie des données et de modéli
 Voici un aperçu visuel de l'interface utilisateur permettant d'effectuer les simulations en temps réel :
 
 ### Formulaire de saisie et paramètres
-<img width="1193" height="1364" alt="image" src="https://github.com/user-attachments/assets/15ba9f10-595d-4e21-989e-199a15be19ca" />
+<img width="386" height="435" alt="image" src="https://github.com/user-attachments/assets/19651b00-e73f-4e07-9089-42f77df6975c" />
 
 ### Résultat de la prédiction
-<img width="1149" height="1613" alt="image" src="https://github.com/user-attachments/assets/ba1d5fd5-d614-479a-98f6-5e643e5961ae" />
+<img width="388" height="422" alt="{09FF1E4A-AC51-4E36-BBA0-F74A87C30A12}" src="https://github.com/user-attachments/assets/7d96077c-fa2f-4a49-9c12-14992fd70ad7" />
 
 ---
 
